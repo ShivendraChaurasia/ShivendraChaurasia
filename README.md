@@ -11,7 +11,7 @@
 **📫 Let's Connect:**
 
 [💼 LinkedIn](https://www.linkedin.com/in/shivendrachaurasia)
-[📧 Email Me](shivendrachaurasia855@gmail.com)
+[📧 Email](shivendrachaurasia855@gmail.com)
 
 
 **📁 My Top Projects:**
