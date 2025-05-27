@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there! I'm Shivendra.
 
-<!--
-**ShivendraChaurasia/ShivendraChaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me:
+- 🔍 Aspiring Data Analyst
+- 💼 Senior Business Executive in Four-Wheeler Sales/Marketing
+- 🛠️ Working with Excel, SQL, Power BI
+- 📈 Currently mastering Python for deeper data insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect:
+
+
+## 📁 My Top Projects:
+
